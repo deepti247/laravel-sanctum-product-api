@@ -2,7 +2,7 @@
 
 A simple RESTful API built with Laravel and Sanctum authentication.
 This project demonstrates user authentication and product CRUD operations using secure API tokens.
-It has features like User Register API, User Login API, Sanctum Token Authentication, Product CRUD API, Protected routes
+It has features like User Register API, User Login API, Sanctum Token Authentication, Product CRUD API, Protected routes...
 
 # Features
 
